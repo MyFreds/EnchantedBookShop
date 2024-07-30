@@ -43,4 +43,4 @@ CONTACT
 - Email: id.luxy.store@gmail.com
 
 CREDIT
-- Icon by [Freepix - Flaticon](https://www.flaticon.com/search?word=Discord)
+- Icon by [Freepix - Flaticon]([https://www.flaticon.com/search?word=Discord](https://www.flaticon.com/search/2?word=bookshop))

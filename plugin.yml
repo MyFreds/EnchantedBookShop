@@ -1,0 +1,14 @@
+---
+name: EnchantedBookShop
+version: 1.0.0
+main: Fred\ebs\EBS
+api: 5.0.0
+author: Fred
+depend: [Anvils]
+commands:
+  ebs:
+    permission: enchantedbookshop.command
+permissions:
+  enchantedbookshop.command:
+    default: true
+...

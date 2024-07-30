@@ -1,0 +1,171 @@
+# Thanks to XeonCH
+
+########################
+# Protection
+# - ID: 0
+# - Max Level: 4
+########################
+# Fire Protection
+# - ID: 1
+# - Max Level: 4
+########################
+# Feather Falling
+# - ID: 2
+# - Max Level: 4
+########################
+# Blast Protection
+# - ID: 3
+# - Max Level: 4
+########################
+# Projectile Protection
+# - ID: 4
+# - Max Level: 4
+########################
+# Respiration
+# - ID: 5
+# - Max Level: 3
+########################
+# Aqua Affinity
+# - ID: 6
+# - Max Level: 1
+########################
+# Thorns
+# - ID: 5
+# - Max Level: 3
+########################
+# Depth Strider
+# - ID: 8
+# - Max Level: 3
+########################
+# Sharpness
+# - ID: 9
+# - Max Level: 5
+########################
+# Smite
+# - ID: 10
+# - Max Level: 5
+########################
+# Bane of Arthropods
+# - ID: 11
+# - Max Level: 5
+########################
+# Knockback
+# - ID: 12
+# - Max Level: 2
+########################
+# Fire Aspect
+# - ID: 13
+# - Max Level: 2
+########################
+# Looting
+# - ID: 14
+# - Max Level: 3
+########################
+# Efficiency
+# - ID: 15
+# - Max Level: 5
+########################
+# Silk Touch
+# - ID: 16
+# - Max Level: 1
+########################
+# Unbreaking
+# - ID: 17
+# - Max Level: 3
+########################
+# Fortune
+# - ID: 18
+# - Max Level: 3
+########################
+# Power
+# - ID: 19
+# - Max Level: 5
+########################
+# Punch
+# - ID: 20
+# - Max Level: 2
+########################
+# Flame
+# - ID: 21
+# - Max Level: 1
+########################
+# Infinity
+# - ID: 22
+# - Max Level: 1
+########################
+# Luck of the Sea
+# - ID: 23
+# - Max Level: 3
+########################
+# Lure
+# - ID: 24
+# - Max Level: 3
+########################
+# Frost Walker
+# - ID: 25
+# - Max Level: 2
+########################
+# Mending
+# - ID: 26
+# - Max Level: 1
+########################
+# Curse of Binding
+# - ID: 27
+# - Max Level: 1
+########################
+# Curse of Vanishing
+# - ID: 28
+# - Max Level: 1
+########################
+
+Shop-enchant:
+  enchantment1:
+    id: 17
+    name: Unbreaking
+    price: 10000
+    max-level: 3
+  enchantment2:
+    id: 0
+    name: Protection
+    price: 10000
+    max-level: 4
+  enchantment3:
+    id: 22
+    name: Infinity
+    price: 10000
+    max-level: 3
+  enchantment4:
+    id: 15
+    name: Efficiency
+    price: 10000
+    max-level: 5
+  enchantment5:
+    id: 19
+    name: Power
+    price: 10000
+    max-level: 3
+  enchantment6:
+    id: 12
+    name: Knockback
+    price: 10000
+    max-level: 2
+  enchantment7:
+    id: 9
+    name: Sharpness
+    price: 10000
+    max-level: 5
+  enchantment8:
+    id: 26
+    name: Mending
+    price: 10000
+    max-level: 5
+  enchantment9:
+    id: 5
+    name: Thorns
+    price: 10000
+    max-level: 3
+  enchantment10:
+    id: 16
+    name: Silk Touch
+    price: 10000
+    max-level: 1

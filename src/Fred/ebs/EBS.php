@@ -8,6 +8,7 @@ use pocketmine\plugin\PluginBase;
 use pocketmine\player\Player;
 use pocketmine\block\{VanillaBlocks, utils\DyeColor};
 use pocketmine\item\VanillaItems;
+use pocketmine\item\EnchantedBook
 use pocketmine\item\enchantment\EnchantmentInstance;
 use pocketmine\data\bedrock\EnchantmentIdMap;
 use pocketmine\utils\Config;
@@ -321,7 +322,7 @@ class EBS extends PluginBase implements Listener
 
     public function enchantInvItem(
         Player $player,
-        \pocketmine\item\EnchantedBook $item,
+        EnchantedBook $item,
         int $level,
         $enchant
     ) {

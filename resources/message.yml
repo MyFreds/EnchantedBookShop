@@ -1,0 +1,23 @@
+# Configuration EnchantedBookShop
+
+# Prefix Message
+ebs-prefix: "§7[§e EnchantedBook§6Shop §7] §r"
+
+# GUI
+menu-title: "§e» §3EnchantedBook§bShop §7( §a{page} §8|§a {totalPages}§8 )"
+back-page-name: "§cPrevious Page"
+next-page-name: "§aNext Page"
+
+# Message
+enchant-success: "§aEnchanted book successfully given!"
+inventory-full: "§cYour inventory is full."
+not-enough-money: "§cNot enough money"
+invalid-enchant-level: "§cInvalid enchantment or level."
+invalid-enchant: "Enchantment with id {id} does not exist."
+
+# UI
+payment-title: "§eEnchanted Book Shop Confirm"
+money-info: "§fYour money: §a{money}\n§fThe Price: §a{price} per level"
+
+# Item Name in GUI
+enchant-item-name: "§e{name} Enchantment\n\n§rId: §a{id}\n§rPrice: §a{price}\n§rMax-Level: §a{max-level}\n"

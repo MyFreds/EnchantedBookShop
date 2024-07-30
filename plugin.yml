@@ -2,7 +2,7 @@
 name: EnchantedBookShop
 version: 1.0.0
 main: Fred\ebs\EBS
-api: 5.0.0
+api: 5.3.0
 author: Fred
 depend: [Anvils]
 commands:
